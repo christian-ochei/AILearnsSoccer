@@ -3,7 +3,7 @@ This is my implementation of the NEAT algorithm on a small game I developed A ve
 
 #
 
-run TheAI.py and watch a nural net learn to play soccer in realtime
+run main.py and watch a nural net learn to play soccer in realtime
 
 ```
 python main.py
